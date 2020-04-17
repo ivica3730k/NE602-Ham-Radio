@@ -1,0 +1,21 @@
+Circuit: * Z:\home\ivica\Radio\NE602_Ham_Radio\RF_PREAMP.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Wed Apr 15 02:11:52 2020
+Total elapsed time: 1.669 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 223908
+traniter = 223905
+tranpoints = 111951
+accept = 76976
+rejected = 34975
+matrix size = 29
+fillins = 6
+solver = Normal
+Matrix Compiler1: 2.26 KB object code size  0.7/0.5/[0.4]
+Matrix Compiler2: 2.46 KB object code size  0.4/0.6/[0.4]
+
