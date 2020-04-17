@@ -8,3 +8,9 @@ checkpoint.ipynb
 .csv
 .raw
 
+
+*.raw
+
+*.net
+
+*.log
