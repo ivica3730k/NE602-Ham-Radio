@@ -1,12 +1,12 @@
-.net
-.op
-.raw
-.lnk
-.log
-.ipynd_checkpoints
-checkpoint.ipynb
-.csv
-.raw
+*.net
+*.op
+*.raw
+*.lnk
+*.log
+*.ipynd_checkpoints
+*checkpoint.ipynb
+*.csv
+*.raw
 
 
 *.raw
